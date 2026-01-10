@@ -1,0 +1,15 @@
+[Keyboard]
+NumLock=1
+RepeatDelay=200
+
+[Libinput][2][8][AlpsPS/2 ALPS DualPoint Stick]
+Enabled=false
+
+[Libinput][2][8][AlpsPS/2 ALPS DualPoint TouchPad]
+Enabled=false
+
+[Libinput][2367][9303][Byte-X KB616 Dongle Consumer Control]
+Enabled=true
+
+[Libinput][2367][9303][Byte-X KB616 Dongle Touchpad]
+Enabled=false
