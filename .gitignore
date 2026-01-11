@@ -1,5 +1,6 @@
 *
 !*/
+!save.sh
 !.gitignore
 !.config/*
 !.local/*

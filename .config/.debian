@@ -1,0 +1,32 @@
+logins:
+https://vault.bitwarden.com/#/lock
+
+happ:
+https://github.com/Happ-proxy/happ-desktop/releases/latest/
+
+git:
+git config --global user.email "daitergod19@gmail.com"
+git config --global user.name "DaiterGG"
+ssh-keygen -t ed25519 -C "daitergod19@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+pub to https://github.com/settings/keys
+git remote add origin git@github.com:DaiterGG/.debian.git
+
+
+
+layouts:
+https://github.com/ThePrimeagen/keyboards/blob/master/ubuntu/real-prog-dvorak
+cd /usr/share/X11/xkb/symbols/
+kate us
+
+anki:
+https://apps.ankiweb.net/
+sudo ./install.sh
+
+discord:
+https://discord.com/api/download?platform=linux
+
+sudo apt update
+sudo apt upgrade
+

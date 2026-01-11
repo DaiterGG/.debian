@@ -7,6 +7,10 @@ Show Status Bar=true
 Show Tab Bar=true
 Show Url Nav Bar=true
 
+[MainWindow]
+1366x768 screen: Height=530
+1366x768 screen: Width=1117
+
 [filetree]
 editShade=183,220,246
 listMode=false

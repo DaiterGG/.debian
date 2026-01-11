@@ -3,14 +3,33 @@ Id_1=870e42ac-c029-4c79-9dba-52f5d9dc5a26
 Number=1
 Rows=1
 
+[Effect-blur]
+BlurStrength=1
+NoiseStrength=0
+
 [Effect-overview]
 BorderActivate=9
+
+[Plugins]
+blurEnabled=false
+contrastEnabled=true
+fadingpopupsEnabled=false
+loginEnabled=false
+logoutEnabled=false
+maximizeEnabled=false
+slideEnabled=false
+slidingpopupsEnabled=false
+squashEnabled=false
+windowapertureEnabled=false
 
 [Tiling]
 padding=4
 
 [Tiling][46226df4-87a1-5f39-8fa4-9e38d0bff6ef]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Wayland]
+EnablePrimarySelection=false
 
 [Xwayland]
 Scale=1
