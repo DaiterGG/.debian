@@ -6,3 +6,4 @@
 !.local/*
 .local/share/Trash/*
 !.bashrc
+!.profile

@@ -2,6 +2,10 @@
 NumLock=1
 RepeatDelay=200
 
+[Libinput][1133][16500][Logitech G305]
+PointerAcceleration=-0.200
+PointerAccelerationProfile=1
+
 [Libinput][2][8][AlpsPS/2 ALPS DualPoint Stick]
 Enabled=false
 

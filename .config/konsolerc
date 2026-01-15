@@ -1,5 +1,23 @@
+[Desktop Entry]
+DefaultProfile=main.profile
+
 [General]
 ConfigVersion=1
+
+[KonsoleWindow]
+UseSingleInstance=true
+
+[Notification Messages]
+CloseAllEmptyTabs=false
+CloseAllTabs=false
+CloseSingleTab=true
+
+[SplitView]
+SplitViewVisibility=AlwaysShowSplitHeader
+
+[TabBar]
+CloseTabOnMiddleMouseButton=true
+TabBarVisibility=AlwaysShowTabBar
 
 [UiSettings]
 ColorScheme=

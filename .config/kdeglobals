@@ -132,8 +132,13 @@ ForegroundNormal=252,252,252
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
+[DirSelect Dialog]
+DirSelectDialog Size=864,512
+History Items[$e]=file:///run/media/daiter/462C327F2C3269D7
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
 [General]
-ColorSchemeHash=7b61368c55eaab4075e7b1ae9501f3675b0f830f
+ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
 
 [KDE]
 AnimationDurationFactor=0
@@ -146,9 +151,6 @@ Allow Expansion=false
 Automatically select filename extension=true
 Breadcrumb Navigation=true
 Decoration position=2
-LocationCombo Completionmode=5
-PathCombo Completionmode=5
-Show Bookmarks=false
 Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
@@ -164,10 +166,6 @@ View Style=DetailTree
 [PreviewSettings]
 EnableRemoteFolderThumbnail=false
 MaximumRemoteSize=0
-
-[Shortcuts]
-Copy=Ctrl+Ins; Ctrl+C
-Save=Ctrl+S; Meta+O
 
 [WM]
 activeBackground=39,44,49

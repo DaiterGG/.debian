@@ -3,3 +3,7 @@ Seen=true
 ShowBadges=false
 ShowInHistory=false
 ShowPopups=false
+
+[Applications][org.telegram.desktop]
+Seen=true
+ShowPopups=false

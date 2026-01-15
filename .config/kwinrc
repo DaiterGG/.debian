@@ -28,6 +28,9 @@ padding=4
 [Tiling][46226df4-87a1-5f39-8fa4-9e38d0bff6ef]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][870e42ac-c029-4c79-9dba-52f5d9dc5a26][b7c54904-5b57-44c2-bb97-364078fab716]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Wayland]
 EnablePrimarySelection=false
 
