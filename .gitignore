@@ -3,7 +3,9 @@
 !save.sh
 !.gitignore
 !.config/*
+.config/nvim/*
 !.local/*
 .local/share/Trash/*
+.local/share/nvim/*
 !.bashrc
 !.profile
